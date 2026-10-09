@@ -1,0 +1,15 @@
+Python / AI Intern (sample practice listing)
+
+Responsibilities:
+- Write readable Python code and small scripts
+- Work with JSON and REST APIs
+- Learn how LLM-powered applications use tools
+- Write tests and document project decisions
+
+Helpful skills:
+- Python fundamentals
+- Git and GitHub
+- Basic HTTP, JSON, and debugging
+- Curiosity, communication, and willingness to learn
+
+This is a fictional practice listing for project demos, not a real vacancy.
