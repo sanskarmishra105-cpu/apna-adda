@@ -1,0 +1,25 @@
+{
+  "name": "Your Name",
+  "target_roles": [
+    "Python Intern",
+    "AI/ML Intern"
+  ],
+  "skills": [
+    "Python basics",
+    "HTML",
+    "CSS",
+    "Git basics"
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "A responsive personal portfolio built with HTML and CSS."
+    }
+  ],
+  "learning_goals": [
+    "Python functions and modules",
+    "APIs and JSON",
+    "LLM tool calling",
+    "Testing and documentation"
+  ]
+}
