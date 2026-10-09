@@ -25,3 +25,14 @@ Update the project cards in `index.html` as you publish real projects. Keep proj
 
 ---
 Built by Sanskar Mishra.
+
+
+## Featured project: Internship Agent
+
+An agentic AI career-prep copilot built with Python and an LLM API. It analyzes a job description, compares requirements against a learner-provided profile, and drafts a skill-gap and interview-preparation plan for human review. It does not submit applications or contact recruiters.
+
+- Project guide: [`projects/internship-agent/README.md`](projects/internship-agent/README.md)
+- Entry point: [`projects/internship-agent/agent.py`](projects/internship-agent/agent.py)
+- Tests: [`projects/internship-agent/test_agent.py`](projects/internship-agent/test_agent.py)
+
+The project is a learning prototype; follow the setup instructions and run tests before describing it as production-ready.
