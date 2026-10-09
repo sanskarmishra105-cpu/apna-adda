@@ -36,3 +36,11 @@ An agentic AI career-prep copilot built with Python and an LLM API. It analyzes 
 - Tests: [`projects/internship-agent/test_agent.py`](projects/internship-agent/test_agent.py)
 
 The project is a learning prototype; follow the setup instructions and run tests before describing it as production-ready.
+
+
+## Featured mini-game: Tic Tac Toe
+
+A two-player browser game made with vanilla HTML, CSS, and JavaScript. Features turn tracking, win/draw detection, round reset, and score tracking.
+
+- **Play:** [Tic Tac Toe](projects/tic-tac-toe/index.html)
+- **Source and setup:** [projects/tic-tac-toe](projects/tic-tac-toe/)
